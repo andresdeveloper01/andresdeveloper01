@@ -1,6 +1,6 @@
-<h1>"<Hola mi nombre es Andres Pulupa>"<h1>
+<h1 align="center">Hi 👋, I'm <Andres Pulupa></h1>
 ===================================================================================================================================
 
-Soy Desarrollador Frontend
+<h3 align="center">Me gusta mucho el Desarrollo web Frontend</h3>
 -------------------
 
