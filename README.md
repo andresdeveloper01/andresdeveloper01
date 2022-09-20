@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo {Andres Pulupa}</h1>
 
 <h3 align="center">Me gusta mucho el Desarrollo web Frontend</h3>
--------------------
+
 - 🌱 Estoy aprendiendo **React**
 - 📧 Me puedes contactar **andrespulupa18@gmail.com**
 <h3 align="left">Conecta conmigo:</h3>
