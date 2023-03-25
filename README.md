@@ -6,7 +6,7 @@
 - 📧 Me puedes contactar **andrespulupa18@gmail.com**
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andres-pulupa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andres-pulupa/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andres-pulupa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andres-pulupa/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8veoafwnjrkviwpr3ld2pq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8veoafwnjrkviwpr3ld2pq" height="30" width="40" /></a>
 </p>
 
